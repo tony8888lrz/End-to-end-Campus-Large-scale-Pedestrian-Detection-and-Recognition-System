@@ -12,7 +12,7 @@ Constructed an accurate detection framework with self-collected and publicly lab
 ```
 2. Clone this repo:
 ```
-git clone [https://github.com/tony8888lrz/PDRS]([https://github.com/tony8888lrz/SWU-BMS/](https://github.com/tony8888lrz/End-to-end-Campus-Large-scale-Pedestrian-Detection-and-Recognition-System))
+git clone [https://github.com/tony8888lrz/PDRS](https://github.com/tony8888lrz/End-to-end-Campus-Large-scale-Pedestrian-Detection-and-Recognition-System))
 cd SWU-BMS
 ```
 3. Install required packages by typing
