@@ -6,19 +6,17 @@ Constructed an accurate detection framework with self-collected and publicly lab
 ### Reproduce the system
 1. Create a new conda environment:
 ```{py}
-  conda create --name bms python=3.9
-  activate bms       # Windows
-  conda activate bms # Linux
+  conda create --name PDRS python=3.9
+  activate PDRS       # Windows
+  conda activate PDRS # Linux
 ```
 2. Clone this repo:
 ```
-git clone [https://github.com/tony8888lrz/SWU-BMS](https://github.com/tony8888lrz/SWU-BMS/)
+git clone [https://github.com/tony8888lrz/PDRS]([https://github.com/tony8888lrz/SWU-BMS/](https://github.com/tony8888lrz/End-to-end-Campus-Large-scale-Pedestrian-Detection-and-Recognition-System))
 cd SWU-BMS
 ```
 3. Install required packages by typing
 ```
 pip install -r requirements.txt
 ```
-4. Run book_management_sys.py to reproduce the management system.
-```
-python book_management_sys.py runserver
+
